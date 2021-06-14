@@ -9,5 +9,31 @@
     display: table;
     clear: both;
 }
+.container {
+    width: 80%;
+    margin: 0 auto;
+    
+    
+}
 
 /* fine common  */
+/* inizio Head  */
+.contenitore-head {
+
+    width: 100%;
+    height: 100px;
+    background-color: rgb(247, 87, 230);
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+/* fine Head  */
+
+/* inizio sliders  */
+.contenitore-sliders {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(224, 218, 116);
+    margin-bottom: 15px;
+
+}
